@@ -1,1 +1,1 @@
-# sample_web
+# sample_web app
